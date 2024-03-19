@@ -18,8 +18,8 @@ social: true # includes social icons at the bottom of the page
 
 Hi, My name is Tie Ma (马铁).
 
-I am a first-year Ph.D. student in the School of Computer Science and Engineering at the [Beihang University](https://ev.buaa.edu.cn/) (BUAA). My research interests are in computer networks.
+I am a first-year Ph.D. student in the School of Computer Science and Engineering at the [Beihang University](https://ev.buaa.edu.cn/) (BUAA), advised by Prof. [Shan Zhang](https://scholar.google.com/citations?user=Low-un4AAAAJ) and [Hongbin Luo](https://scholar.google.com/citations?user=aaEjzHMAAAAJ). My research interests are broadly in computer networks.
 
-Prior to Beihang University, I received my M.S. from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC) in 2023, under the guidance of Prof. [Hongfang Yu](https://scholar.google.com/citations?user=GmEdMqwAAAAJ). I received my B.S. from [Xidian University](https://en.xidian.edu.cn/) in 2020.
+Prior to Beihang University, I received my M.S. from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) (UESTC) in 2023, under the guidance of Prof. [Hongfang Yu](https://scholar.google.com/citations?user=GmEdMqwAAAAJ) and [Long Luo](https://scholar.google.com/citations?user=rcqa1EEAAAAJ). I received my B.S. from [Xidian University](https://en.xidian.edu.cn/) in 2020.
 
 Email: matie @AT@ buaa.edu.cn. Please feel free to contact me!
